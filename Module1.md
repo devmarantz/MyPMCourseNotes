@@ -105,3 +105,50 @@ Used for documenting and tracking the progress of a project
   - Completeness
     - Does the client have everything they need in order to do their work and make their decisions?
 
+### Phase 5 - Case Study
+#### Interview Tips
+  - Show your understanding of the position
+  - Highlight your pertinent skills
+
+### Phase 6 - PM Tools
+  - PM Tools are generally used for:
+    1. Estimating Activity Time
+        - Based off of experience or 
+    2. Scheduling and Expediting 
+        - If there are delays they should identify alternate actions to bring the project back within the time constraints. 
+          - This is done by putting more resources, time or money into a particular activity. 
+        - Assessing time and costs need to be traded off in order to get the project completed.
+        - Expediting the schedule involves identifying tasks that could possibly be reduced in time if enough money or resources were available.
+    3. Critical Path Method
+      ![Critical Path](./images/1.6-critical.png)
+        - A series of activities which are vital to the event being completed on time
+        - A delay in one event will delay the completion of the project.
+
+#### GANTT Charts
+  ![GANTT Chart](./images/1.6-GANTT.png)
+  - Displays tasks and costs along a horizontal time scale
+  - Each tasks is recorded accoring to it's start and end date
+  - Shows the best possible way to complete a project in the shortest time
+  - Activities can be sequential or in parallel
+  - Note
+    - Does not show critical path
+    - Does not show relationships between tasks
+
+#### PERT Diagrams
+  ![PERT Chart](./images/1.6-PERT.png)
+
+  - Show relationships between activities and time frames
+  - Better at identifying the relationship between tasks rather than the progress of tasks over time.
+
+  - Key Elements in PERT Diagrams
+    1. Activities
+        - list of activities in the project and their dependencies
+    2. Nodes/Events
+        - indicating the beginning or end of an activity
+    3. Network lines 
+        - show the interdependence of events
+    4. Critical path
+        - the sequence of dependent events that have the sum of longest duration
+    5. Slack time
+        - events not on the critical path usually have slack time
+        -  extra time for that event that does not effect the timing of other events thus not effecting the project time. That means that can fall behind schedule and there is no impact on the project completion date.
