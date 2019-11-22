@@ -152,3 +152,38 @@ Used for documenting and tracking the progress of a project
     5. Slack time
         - events not on the critical path usually have slack time
         -  extra time for that event that does not effect the timing of other events thus not effecting the project time. That means that can fall behind schedule and there is no impact on the project completion date.
+
+### Phase 7 - PM Tools Case Study
+#### Noteworthy
+  - PM created GANTT chart to outline all stages
+  - Handed out PERT diagrams to his team
+    - Enabled communication with the team
+    - Keeps team on track
+  - Uses of GANTT Chart
+    - List out tasks
+    - Break down project into objectives
+    - Timeline to keep track of costs and resources
+    - Ability to efficiently track time
+    - Ability to see which tasks can overlap
+      - also which tasks are dependent on one another
+    - Use info to prioritize tasks
+    - All information in one place
+
+#### Review of Tools
+##### GANTT Charts
+  - Displays tasks along a horizontal scale
+  - Record the time for each task by indicating start and finish dates
+  - Shows the best way to complete tasks in the shortest possible time
+  - Shows how activities can be done in parallel and sequentially
+
+##### PERT Diagrams (Network Diagrams)
+  - Uses graphical forms to show relationships between activities and time frames
+  - Show actual tasks and the point at which these activities begin or end
+  - List activities in the project and their dependencies
+  - Show the interdependence of events
+  - Indicate the critical path and slack time
+  - Often provide the 3 estimates for the project duration:
+    - Pessimistic, Optimistic, and most-likely
+
+##### CPM Diagram (Critical Path Method)
+  - A network diagram showing only one time estimate
