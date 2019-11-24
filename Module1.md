@@ -284,3 +284,35 @@ Categorized by:
 
 ---
 ## Lesson 10 - Project Documentation Case Study
+- Documentation is essential for the success of any IT system.
+  - It should inform and explain the system
+
+### Types of docs
+![docs](./images/1.10-docs.png)
+
+### Whe can help docs
+![who](./images/1.10-who.png)
+
+---
+## Lesson 11 - Summary
+### Four Phases of PM
+  1. Investigation
+  2. Planning & design
+  3. Production
+  4. Monitoring and evaluation
+
+### Tools
+  To help plan, schedule and track project activity.
+  1. GANTT Chart
+      - Tracks tasks and costs along a horizontal time scale, much like a calendar
+  2. PERT Diagram
+      - AKA Network diagrams
+      - use a graphical form to show relationships between activities and time frames.
+  3. Critical Path Method
+      - The critical path is a series of activities which are vital to the event being completed on time. 
+
+### Documentation is important
+  - essential for the success of any information system
+  - Provides anyone who interacts with a particular system an overview of the system capabilities and its software
+  - May also include specific procedures which must be followed or be used to provide training or reference material.
+
