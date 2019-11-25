@@ -1,4 +1,4 @@
-# Module 1 - Learning Outcomes
+# Module 1 - Project Management Methodology, Toolset and Documentation
 
 ## Goals of Module
   - Describe the four stages of a project.
