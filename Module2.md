@@ -110,3 +110,39 @@
   2. Auditing the system (including a post implementation review)
   3. Maintaining the system
   4. Re-engineering proposals.
+
+## The Planning Phase
+  - Recognizing the problem
+  - The ability to clearly define the problems or the inefficiencies is the first step to a succesful project
+
+### Setting Project Objectives
+  - Broad goals are set for the entire project
+  - In the Planning phase, you should set a clear picture of:
+    - What the problem is?
+    - What outcome will resolve the process?
+  - Your project should address an issue and solve a problem
+
+### Identify constraints
+  - This can include:
+    - Budget, speed of implementation, integration and compatibility, issues with staff
+
+### Feasability Study
+  - Is the system worthwhile??
+    - Can the cost of developing the system be justified by the benefits the system will deliver?
+  - Feasability studies often include:
+    - can the system be created?
+    - does the company have the ability to create the system?
+    - if the system was developed, does the company have the ability to keep it operating at an acceptable level?
+    - can the system development costs and ongoing costs be justified on the improvements it will deliver?
+    - is there a better way of solving the problem?
+    - should the system development go ahead?
+  - Feasability Matrix
+    ![Feasability Matrix](./images/2.4-feasabilityMatrix.png)
+
+### Creating Project Proposals
+
+### Establishing Control Systems
+  - A clear set of procedures and techniques must be established to ensure that proper controls exist on any data gathered in subsequent stages to ensure that it is valid. 
+  - For example:
+    - it is often necessary to follow-up an interview or survey with direct observation to confirm your findings.
+    ![Control Systems](./images/2.4-control.png)
