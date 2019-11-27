@@ -146,3 +146,32 @@
   - For example:
     - it is often necessary to follow-up an interview or survey with direct observation to confirm your findings.
     ![Control Systems](./images/2.4-control.png)
+
+### Order of Planning 
+  ![order](./images/2.4-sequence.png)
+
+## The Analysis Phase
+  - "Anouncing the project"
+  - begins with members of the organisation being notified that system changes are under investigation so that they can be prepared to participate in the decision making if required. 
+
+### Creating the team
+  - Gather people with relevant, "specialist" talent
+  - Example
+    - the project team would include system analysts who provide links with the users and technical analysts who determine the technical feasibility of the project.
+
+### Defining Information Needs
+  - Purpose of phase
+    - Document what the current system does
+    - highlight the strengths and deficiencies in it.
+  - During this phase you should have:
+    - identification and evaluation of sources of information
+    - identification and description of the types of information needed to analyse the system
+    - identification and description of the types of information needed to design the system
+    - information flow and needs documented using system modeling tools
+    - identification and description of problem areas in the current system, which are grouped and become the basis for the development of the new system.
+
+### Identification and evaluation of sources of information
+  - the first step must be to identify the sources of information that will provide views on the running of the current system. 
+  - This will involve:
+    - the users of the information the system produces
+    - users of the actual system and people who support the system.
