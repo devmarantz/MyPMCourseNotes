@@ -175,3 +175,6 @@
   - This will involve:
     - the users of the information the system produces
     - users of the actual system and people who support the system.
+
+### System Analysts
+  ![systemAnalyst](./images/2.6-systemAnalyst.png)
